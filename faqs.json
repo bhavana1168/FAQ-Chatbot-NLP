@@ -1,0 +1,42 @@
+[
+    {
+        "question": "return refund replace cancel order",
+        "answer": "You can return products within 30 days of purchase."
+    },
+    {
+        "question": "contact support customer care help complaint",
+        "answer": "You can contact support through email or phone."
+    },
+    {
+        "question": "payment methods UPI debit card credit card cash",
+        "answer": "We accept credit cards, debit cards, and UPI."
+    },
+    {
+        "question": "home delivery shipping available deliver order",
+        "answer": "Yes, we offer home delivery across India."
+    },
+    {
+        "question": "shipping delivery time duration days",
+        "answer": "Shipping usually takes 3 to 5 business days."
+    },
+    {
+        "question": "working hours office timings open close",
+        "answer": "Our customer support is available from 9 AM to 6 PM."
+    },
+    {
+        "question": "location address office branch store",
+        "answer": "Our main office is located in Hyderabad."
+    },
+    {
+        "question": "exchange product replace item",
+        "answer": "Yes, product exchange is available within 7 days."
+    },
+    {
+        "question": "track order status shipment",
+        "answer": "You can track your order using the tracking ID sent to your email."
+    },
+    {
+        "question": "discount offers coupon sale",
+        "answer": "Yes, seasonal discounts and offers are available."
+    }
+]
